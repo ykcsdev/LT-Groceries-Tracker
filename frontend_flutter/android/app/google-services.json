@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "508904467895",
+    "project_id": "mobile-devices-n8ilha",
+    "storage_bucket": "mobile-devices-n8ilha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508904467895:android:50df854cb097748f5dcc32",
+        "android_client_info": {
+          "package_name": "io.github.ykcssdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508904467895-bgt5a8mb2lqr3s5jug02u6ab3m79ojmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.ykcssdev",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "508904467895-bsdjsc0589gh8g9s0oobm4fn17k0fs74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs1GCDDowNuDqEwFnIzYbjra1W6imFDmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508904467895-bsdjsc0589gh8g9s0oobm4fn17k0fs74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "508904467895-vj5n1n4ro98q20s96npmcl48muog7rtk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.ykcssdev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
